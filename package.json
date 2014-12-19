@@ -2,7 +2,7 @@
     "name": "appInstaller",
     "description": "",
     "version": "0.0.1",
-    "main": "./appInstaller.js",
+    "main": "./index.js",
     "author": {
         "name": "ken",
         "email": "you@email.example"
