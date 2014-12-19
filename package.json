@@ -1,0 +1,21 @@
+{
+    "name": "appInstaller",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./appInstaller.js",
+    "author": {
+        "name": "ken",
+        "email": "you@email.example"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/appInstaller.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/appInstaller/issues"
+    }
+}
