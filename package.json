@@ -1,21 +1,27 @@
 {
-    "name": "appInstaller",
-    "description": "",
-    "version": "0.0.1",
-    "main": "./index.js",
-    "author": {
-        "name": "ken",
-        "email": "you@email.example"
+    "name": "uins",
+    "preferGlobal": "true",
+    "description": "Ulbora Node.js application installer",
+    "version": "0.0.1",    
+    "bin": {
+        "uins": "./bin/uins"
     },
+    "author": {
+        "name": "ken williamson",
+        "email": "kenulborapublic@gmail.com"
+    },
+    "maintainers": [
+        "Chris williamson <chrisulborapublic@gmail.com>"
+    ],
     "keywords": [],
     "licenses": {
-        "type": "none"
+        "type": "GPLv3"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/YOUR_LOGIN/appInstaller.git"
+        "url": "git://https://github.com/Ulbora/app_installer.git"
     },
     "bugs": {
-        "url": "http://github.com/YOUR_LOGIN/appInstaller/issues"
+        "url": "http://github.com/https://github.com/Ulbora/app_installer/issues"
     }
 }
