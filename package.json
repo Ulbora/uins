@@ -2,7 +2,7 @@
     "name": "uins",
     "preferGlobal": "true",
     "description": "Ulbora Node.js application installer",
-    "version": "0.0.1",    
+    "version": "0.0.1",
     "bin": {
         "uins": "./bin/uins"
     },
@@ -22,6 +22,9 @@
         "url": "git://https://github.com/Ulbora/app_installer.git"
     },
     "bugs": {
-        "url": "http://github.com/https://github.com/Ulbora/app_installer/issues"
+        "url": "https://github.com/Ulbora/app_installer/issues"
+    },
+    "dependencies": {
+        "node-rest-client": "*"
     }
 }
