@@ -2,7 +2,7 @@
     "name": "uins",
     "preferGlobal": "true",
     "description": "Ulbora Node.js application installer",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "bin": {
         "uins": "./bin/uins"
     },
