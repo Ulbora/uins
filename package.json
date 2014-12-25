@@ -19,10 +19,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://https://github.com/Ulbora/app_installer.git"
+        "url": "git://https://github.com/Ulbora/uins.git"
     },
     "bugs": {
-        "url": "https://github.com/Ulbora/app_installer/issues"
+        "url": "https://github.com/Ulbora/uins/issues"
     },
     "dependencies": {
         
